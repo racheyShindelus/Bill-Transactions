@@ -1,3 +1,7 @@
+Program Description: 
+
+ This program calculates the minimum number of bills needed to make change for a given dollar amount using standard US denominations and also allows for custom denominations input by the user.
+
 Functions:
 - int bills(int amount): This function calculates the minimum number of bills needed for a given dollar amount using standard US denominations (100, 20, 10, 5, 1).
 
